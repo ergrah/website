@@ -28,8 +28,16 @@ body {
   header nav li {
     display: inline-block;
     margin-left: 20px;
+    color: black;
   }
   
+  header nav li:hover {
+    display: inline-block;
+    margin-left: 20px;
+    color: blue;
+    background-color: aquamarine;
+  }
+
   main {
     padding: 20px;
     font-family:'Courier New', Courier, monospace
