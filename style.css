@@ -7,6 +7,7 @@ body {
   header {
     background-color: #f1f1f1;
     padding: 20px;
+    font-family:'Courier New', Courier, monospace
   }
   
   header h1 {
@@ -30,6 +31,7 @@ body {
   
   main {
     padding: 20px;
+    font-family:'Courier New', Courier, monospace
   }
   
   .blog-post {
@@ -43,5 +45,10 @@ body {
   .blog-post a {
     text-decoration: none;
     color: #000;
+  }
+  
+  footer {
+    padding: 20px;
+    font-family:'Courier New', Courier, monospace
   }
   
