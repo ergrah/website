@@ -47,6 +47,13 @@ body {
     text-decoration: none;
     color: #000;
   }
+  .overview {
+    margin-bottom: 20px;
+  }
+  
+  .overview h2 {
+    margin-top: 0;
+  }
   
   footer {
     padding: 20px;
