@@ -12,6 +12,7 @@ body {
   
   header h1 {
     display: inline-block;
+    text-decoration: none;
   }
   
   header nav {
